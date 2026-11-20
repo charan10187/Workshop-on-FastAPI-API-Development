@@ -37,3 +37,18 @@ HTTP Method
 4. PATCH  => partial Resource Update
 5. DELETE => Remove Resource
 
+What is JSON?
+-------------
+JSON stands for Java Script Object Notation 
+It is Lightweight text format commonly using to exchange data between applications 
+
+Json uses two data structures
+1. Object { key:value  "pair"}
+2. Array  [] 
+
+How to build web API's using python?
+
+python provides Rest Framework for developing web API's/web services
+1. DRF ---> Django Rest Framework
+2. Flask API 
+3. FAST API
