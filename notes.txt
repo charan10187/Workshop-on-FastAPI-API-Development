@@ -1,0 +1,12 @@
+API means Application Programming interface
+it is a defined way for two software applications to communicate and exechange data or information
+API acts as a bridge between two applications/softwares written i same language or different language
+
+FLOW
+====
+1. Client
+2. API request
+3. Backend 
+4. Database(if needed)
+5. API response
+6. Client
