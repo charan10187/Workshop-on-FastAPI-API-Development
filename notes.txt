@@ -10,3 +10,30 @@ FLOW
 4. Database(if needed)
 5. API response
 6. Client
+There are 2 people involved in development of API's
+
+1. API Developer
+2. API Consumers
+
+API Developer
+    ==> The role of API Developer is developing and deploying API's within server
+
+API Consuners
+    ==> The role of API Consumer id using API function/Consuming API's
+
+What is HTTP?
+HTTP stands for Hyper Text Transfer Protocol
+it allows to communicate two different languages applications 
+
+it is a comminication protocol used by client server to exchange data or information
+HTTP is called application protocol
+InAPI communication always client communicate with serve using HTTP
+
+HTTP Method 
+-----------
+1. GET    => Retrive information
+2. POST   => Creating Resource
+3. PUT    => Replacing or Updaitng Resource
+4. PATCH  => partial Resource Update
+5. DELETE => Remove Resource
+
